@@ -1,3 +1,6 @@
 [submodule "sources/php"]
 	path = sources/php
 	url = git@github.com:levraimarius/modulo-back.git
+[submodule "sources/node"]
+	path = sources/node
+	url = git@github.com:levraimarius/modulo-scout-front.git
