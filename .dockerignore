@@ -1,0 +1,4 @@
+sources/node/node_modules
+sources/node/.git
+sources/php/vendor
+/sources/php/.git

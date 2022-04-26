@@ -1,0 +1,3 @@
+[submodule "sources/php"]
+	path = sources/php
+	url = git@github.com:levraimarius/modulo-back.git
